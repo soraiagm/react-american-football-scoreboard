@@ -8,6 +8,8 @@ function App() {
   const [homeScore, setHomeScore] = useState(32);
   const [awayScore, setAwayScore] = useState(32);
 
+  
+
   return (
     <div className="container">
       <section className="scoreboard">

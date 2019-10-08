@@ -56,3 +56,11 @@ button:focus {
 button:active {
   transform: scale(0.99);
 }
+
+quarterBtns {
+  margin-top: 10px;
+}
+
+quarterButton {
+  margin-right: 10px;
+}
